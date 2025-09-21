@@ -48,7 +48,7 @@
             this.OpenSerial.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.OpenSerial.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.OpenSerial.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.OpenSerial.Location = new System.Drawing.Point(56, 51);
+            this.OpenSerial.Location = new System.Drawing.Point(20, 24);
             this.OpenSerial.Margin = new System.Windows.Forms.Padding(5);
             this.OpenSerial.Name = "OpenSerial";
             this.OpenSerial.Size = new System.Drawing.Size(218, 94);
@@ -64,7 +64,7 @@
             this.FindSerial.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.FindSerial.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.FindSerial.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.FindSerial.Location = new System.Drawing.Point(310, 51);
+            this.FindSerial.Location = new System.Drawing.Point(274, 24);
             this.FindSerial.Margin = new System.Windows.Forms.Padding(5);
             this.FindSerial.Name = "FindSerial";
             this.FindSerial.Size = new System.Drawing.Size(218, 94);
@@ -80,7 +80,7 @@
             this.ClearFlush.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.ClearFlush.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.ClearFlush.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.ClearFlush.Location = new System.Drawing.Point(1142, 729);
+            this.ClearFlush.Location = new System.Drawing.Point(57, 470);
             this.ClearFlush.Margin = new System.Windows.Forms.Padding(5);
             this.ClearFlush.Name = "ClearFlush";
             this.ClearFlush.Size = new System.Drawing.Size(418, 101);
@@ -93,7 +93,7 @@
             // 
             this.LabelSerialNum.BackColor = System.Drawing.Color.Transparent;
             this.LabelSerialNum.Font = new System.Drawing.Font("宋体", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.LabelSerialNum.Location = new System.Drawing.Point(39, 180);
+            this.LabelSerialNum.Location = new System.Drawing.Point(3, 153);
             this.LabelSerialNum.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.LabelSerialNum.Name = "LabelSerialNum";
             this.LabelSerialNum.Size = new System.Drawing.Size(218, 55);
@@ -105,7 +105,7 @@
             // 
             this.LabelBaud.BackColor = System.Drawing.Color.Transparent;
             this.LabelBaud.Font = new System.Drawing.Font("宋体", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.LabelBaud.Location = new System.Drawing.Point(39, 252);
+            this.LabelBaud.Location = new System.Drawing.Point(3, 225);
             this.LabelBaud.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.LabelBaud.Name = "LabelBaud";
             this.LabelBaud.Size = new System.Drawing.Size(218, 55);
@@ -117,7 +117,7 @@
             // 
             this.SerialBox.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.SerialBox.FormattingEnabled = true;
-            this.SerialBox.Location = new System.Drawing.Point(265, 194);
+            this.SerialBox.Location = new System.Drawing.Point(229, 167);
             this.SerialBox.Margin = new System.Windows.Forms.Padding(5);
             this.SerialBox.Name = "SerialBox";
             this.SerialBox.Size = new System.Drawing.Size(273, 39);
@@ -141,7 +141,7 @@
             "460800",
             "500000",
             "576000"});
-            this.BaudBox.Location = new System.Drawing.Point(265, 264);
+            this.BaudBox.Location = new System.Drawing.Point(229, 237);
             this.BaudBox.Margin = new System.Windows.Forms.Padding(5);
             this.BaudBox.Name = "BaudBox";
             this.BaudBox.Size = new System.Drawing.Size(273, 39);
@@ -151,11 +151,11 @@
             // 
             this.DisplayText.BackColor = System.Drawing.Color.White;
             this.DisplayText.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.DisplayText.Location = new System.Drawing.Point(576, 53);
+            this.DisplayText.Location = new System.Drawing.Point(547, 24);
             this.DisplayText.Margin = new System.Windows.Forms.Padding(5);
             this.DisplayText.Multiline = true;
             this.DisplayText.Name = "DisplayText";
-            this.DisplayText.Size = new System.Drawing.Size(985, 641);
+            this.DisplayText.Size = new System.Drawing.Size(634, 545);
             this.DisplayText.TabIndex = 7;
             // 
             // UpHostForm
@@ -163,9 +163,10 @@
             this.AllowDrop = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(15F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.Window;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.ClientSize = new System.Drawing.Size(1361, 738);
+            this.ClientSize = new System.Drawing.Size(1206, 618);
             this.Controls.Add(this.DisplayText);
             this.Controls.Add(this.BaudBox);
             this.Controls.Add(this.SerialBox);
@@ -176,11 +177,8 @@
             this.Controls.Add(this.OpenSerial);
             this.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.Margin = new System.Windows.Forms.Padding(5);
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
             this.Name = "UpHostForm";
             this.Text = "Nagisa的串口助手";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

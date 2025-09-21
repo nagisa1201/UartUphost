@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\project\\vs2022_pro\\uart_serial\\",
+  "WorkspaceRootPath": "D:\\project\\git\\UartUphost\\uart_serial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|d:\\project\\vs2022_pro\\uart_serial\\uphostform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|solutionrelative:uphostform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|D:\\project\\git\\UartUphost\\uart_serial\\uphostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|solutionrelative:uphostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|d:\\project\\vs2022_pro\\uart_serial\\uphostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|d:\\project\\git\\uartuphost\\uart_serial\\uphostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|solutionrelative:uphostform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|d:\\project\\vs2022_pro\\uart_serial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|D:\\project\\git\\UartUphost\\uart_serial\\uphostform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|solutionrelative:uphostform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|d:\\project\\vs2022_pro\\uart_serial\\uphostform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|solutionrelative:uphostform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|D:\\project\\git\\UartUphost\\uart_serial\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|D:\\project\\git\\UartUphost\\uart_serial\\UphostForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|solutionrelative:UphostForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|D:\\project\\git\\UartUphost\\uart_serial\\uart_serial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|solutionrelative:uart_serial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|D:\\project\\git\\UartUphost\\uart_serial\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FA5CA3D3-3B7E-4D8A-91C2-8A20C84401F1}|uart_serial.csproj|solutionrelative:App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +38,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UphostForm.cs",
+              "DocumentMoniker": "D:\\project\\git\\UartUphost\\uart_serial\\UphostForm.cs",
+              "RelativeDocumentMoniker": "UphostForm.cs",
+              "ToolTip": "D:\\project\\git\\UartUphost\\uart_serial\\UphostForm.cs",
+              "RelativeToolTip": "UphostForm.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAowIkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:06:10.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\project\\git\\UartUphost\\uart_serial\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\project\\git\\UartUphost\\uart_serial\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-21T03:02:50.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UphostForm.resx",
+              "DocumentMoniker": "D:\\project\\git\\UartUphost\\uart_serial\\UphostForm.resx",
+              "RelativeDocumentMoniker": "UphostForm.resx",
+              "ToolTip": "D:\\project\\git\\UartUphost\\uart_serial\\UphostForm.resx",
+              "RelativeToolTip": "UphostForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-21T02:20:06.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UphostForm.Designer.cs",
+              "DocumentMoniker": "D:\\project\\git\\UartUphost\\uart_serial\\UphostForm.Designer.cs",
+              "RelativeDocumentMoniker": "UphostForm.Designer.cs",
+              "ToolTip": "D:\\project\\git\\UartUphost\\uart_serial\\UphostForm.Designer.cs",
+              "RelativeToolTip": "UphostForm.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwKgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:16:04.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\project\\vs2022_pro\\uart_serial\\Program.cs",
+              "DocumentMoniker": "D:\\project\\git\\UartUphost\\uart_serial\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\project\\vs2022_pro\\uart_serial\\Program.cs",
+              "ToolTip": "D:\\project\\git\\UartUphost\\uart_serial\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,36 +105,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UphostForm.resx",
-              "DocumentMoniker": "D:\\project\\vs2022_pro\\uart_serial\\UphostForm.resx",
-              "RelativeDocumentMoniker": "UphostForm.resx",
-              "ToolTip": "D:\\project\\vs2022_pro\\uart_serial\\UphostForm.resx",
-              "RelativeToolTip": "UphostForm.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-09-21T02:20:06.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UphostForm.Designer.cs",
-              "DocumentMoniker": "D:\\project\\vs2022_pro\\uart_serial\\UphostForm.Designer.cs",
-              "RelativeDocumentMoniker": "UphostForm.Designer.cs",
-              "ToolTip": "D:\\project\\vs2022_pro\\uart_serial\\UphostForm.Designer.cs",
-              "RelativeToolTip": "UphostForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T02:16:04.492Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "uart_serial.csproj",
+              "DocumentMoniker": "D:\\project\\git\\UartUphost\\uart_serial\\uart_serial.csproj",
+              "RelativeDocumentMoniker": "uart_serial.csproj",
+              "ToolTip": "D:\\project\\git\\UartUphost\\uart_serial\\uart_serial.csproj",
+              "RelativeToolTip": "uart_serial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-21T03:02:53.67Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UphostForm.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\project\\vs2022_pro\\uart_serial\\UphostForm.cs",
+              "DocumentMoniker": "D:\\project\\git\\UartUphost\\uart_serial\\UphostForm.cs",
               "RelativeDocumentMoniker": "UphostForm.cs",
-              "ToolTip": "D:\\project\\vs2022_pro\\uart_serial\\UphostForm.cs [\u8BBE\u8BA1]",
+              "ToolTip": "D:\\project\\git\\UartUphost\\uart_serial\\UphostForm.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "UphostForm.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T12:58:38.557Z",

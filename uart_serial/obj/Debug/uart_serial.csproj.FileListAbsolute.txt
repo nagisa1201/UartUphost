@@ -9,3 +9,14 @@ D:\project\vs2022_pro\uart_serial\obj\Debug\uart_serial.exe
 D:\project\vs2022_pro\uart_serial\obj\Debug\uart_serial.pdb
 D:\project\vs2022_pro\uart_serial\obj\Debug\uart_serial.exe.config
 D:\project\vs2022_pro\uart_serial\obj\Debug\uart_serial.UpHostForm.resources
+D:\project\git\UartUphost\uart_serial\bin\Debug\uart_serial.exe.config
+D:\project\git\UartUphost\uart_serial\bin\Debug\uart_serial.exe
+D:\project\git\UartUphost\uart_serial\bin\Debug\uart_serial.pdb
+D:\project\git\UartUphost\uart_serial\obj\Debug\uart_serial.csproj.AssemblyReference.cache
+D:\project\git\UartUphost\uart_serial\obj\Debug\uart_serial.exe.config
+D:\project\git\UartUphost\uart_serial\obj\Debug\uart_serial.UpHostForm.resources
+D:\project\git\UartUphost\uart_serial\obj\Debug\uart_serial.Properties.Resources.resources
+D:\project\git\UartUphost\uart_serial\obj\Debug\uart_serial.csproj.GenerateResource.cache
+D:\project\git\UartUphost\uart_serial\obj\Debug\uart_serial.csproj.CoreCompileInputs.cache
+D:\project\git\UartUphost\uart_serial\obj\Debug\uart_serial.exe
+D:\project\git\UartUphost\uart_serial\obj\Debug\uart_serial.pdb
